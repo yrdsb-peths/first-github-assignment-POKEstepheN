@@ -26,6 +26,6 @@ public class Rectangle
     
     public String toString()
     {
-        return "Rectangle with width: " + width + " and height: " + height;
+        return "Rectangle with width: " + width + " and height: " + height + "!";
     }
 }
