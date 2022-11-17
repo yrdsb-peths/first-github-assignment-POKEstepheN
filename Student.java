@@ -1,6 +1,7 @@
 /**
  * The Student class holds data about a student.
  * The fields are firstName, lastName, and grade.
+ * Stephen is a student as well!
  */
 public class Student
 {
